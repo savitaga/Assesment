@@ -1,0 +1,6 @@
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.csproj.AssemblyReference.cache
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.AssemblyInfoInputs.cache
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.AssemblyInfo.cs
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.csproj.CoreCompileInputs.cache
+D:\Batch1 Project\EmployeeManagement.API\obj\Debug\net7.0\EmployeeManagement.API.MvcApplicationPartsAssemblyInfo.cache
